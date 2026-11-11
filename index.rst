@@ -5,6 +5,9 @@
 
    README.md
    docs/Tutorial.md
+   docs/Arduino.md
+   docs/Kidsblock.md
+   docs/Mixly.md
 
 
 
